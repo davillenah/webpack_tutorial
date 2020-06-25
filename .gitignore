@@ -1,3 +1,7 @@
+# Dist Temporal
+wwwroot/
+dist/
+
 # Logs
 logs
 *.log
